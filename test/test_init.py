@@ -2,6 +2,8 @@ from cbutil import *
 import asyncio
 import logging
 
+from awrand import *
+
 proj_root_path = Path(__file__).prnt.prnt
 test_tmp_path = proj_root_path/Path('tmp/test')
 
