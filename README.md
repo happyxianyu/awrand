@@ -1,2 +1,2 @@
-# demo
-demo
+# awrand
+A random generator
